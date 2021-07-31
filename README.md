@@ -7,4 +7,4 @@ The structure will be:
 
 Main folders -> Those folders are the levels of the tasks.
 
-Secundary folders -> Those folders will be one folders for each task. Which folder will have a txt file with the description of the task and the resolution using ruby.
+Secundary folders -> Those folders will be one folders for each task. Each folder will have a txt file with the description of the task and the resolution using ruby.
